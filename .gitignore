@@ -1,2 +1,70 @@
+mnist_data/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and debug files
+*.log
+*.out
+*.err
+logs/
+debug/
+
+# Virtual environment
+env/
+venv/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
 data/
+*.csv
+*.tsv
+*.json
+*.xml
+*.xlsx
+*.xls
 *.zip
+*.tar.gz
+*.gz
+
+
+# Model files
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+models/
+
+# Intermediate results
+*.npy
+*.npz
+
+# TensorBoard logs
+runs/
+events.out.tfevents.*
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Docker
+*.pid
+*.sock
+
+# Other unnecessary files
+*.swp
+*.bak
+*.tmp
+*.old
+*.npz
+mnist_data/MNIST/raw/t10k-labels-idx1-ubyte
