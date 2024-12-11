@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-mnist_data/
-
-
->>>>>>> 0bb594015b7baaf4e389139804c00e495b63d47d
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -35,11 +29,7 @@ data/
 *.xls
 *.zip
 *.tar.gz
-<<<<<<< HEAD
-=======
 *.gz
-
->>>>>>> 0bb594015b7baaf4e389139804c00e495b63d47d
 
 # Model files
 *.h5
@@ -72,9 +62,4 @@ Thumbs.db
 *.bak
 *.tmp
 *.old
-<<<<<<< HEAD
 *.npz
-=======
-*.npz
-mnist_data/MNIST/raw/t10k-labels-idx1-ubyte
->>>>>>> 0bb594015b7baaf4e389139804c00e495b63d47d
