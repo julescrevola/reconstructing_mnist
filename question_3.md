@@ -74,4 +74,4 @@ https://www.omdena.com/blog/denoising-autoencoders
 https://www.geeksforgeeks.org/python-opencv-bicubic-interpolation-for-resizing-image/
 This amazing code on github: https://github.com/aGIToz/PyInpaint
 
-Disclaimer: we used GPT to help with the synthesys of this markdown.
+Disclaimer: we used GPT to help with the synthesis of this markdown.
